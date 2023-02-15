@@ -8,3 +8,4 @@ I am a 3rd year front-end developer and UI/UX designer student at Fontys Hogesch
 - JavaScript
 - React
 - Statamic CMS
+- Wordpress
