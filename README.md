@@ -4,7 +4,7 @@ I am a 3rd year front-end developer and UI/UX designer student at Fontys Hogesch
 
 ## 🛠 Here are some technologies I feel comfortable working with:
 - HTML
-- CSS, TailwindCSS
+- CSS, TailwindCSS. SCSS
 - JavaScript
 - React
 - Statamic CMS
