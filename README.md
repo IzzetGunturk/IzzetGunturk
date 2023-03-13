@@ -6,6 +6,7 @@ I am a 3rd year front-end developer and UI/UX designer student at Fontys Hogesch
 - HTML
 - CSS, TailwindCSS. SCSS
 - JavaScript
+- Alpine JS
 - React
 - Statamic CMS
 - Wordpress
