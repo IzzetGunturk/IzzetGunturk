@@ -8,5 +8,6 @@ I am a 3rd year front-end developer and UI/UX designer student at Fontys Hogesch
 - JavaScript
 - Alpine JS
 - React
+- C#
 - Statamic CMS
 - Wordpress
