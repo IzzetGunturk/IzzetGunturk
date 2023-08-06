@@ -6,7 +6,6 @@ I am a 4th year Front-end Developer, UI/UX designer and Cyber Security student a
 - HTML
 - CSS, TailwindCSS. SCSS
 - JavaScript
-- Alpine JS
 - React
 - C#
 - Statamic CMS
