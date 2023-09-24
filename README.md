@@ -9,4 +9,4 @@ I am a 4th year Front-end Developer, UI/UX designer and Cyber Security student a
 - React
 - C#
 - Statamic CMS
-- Wordpress
+- WordPress
