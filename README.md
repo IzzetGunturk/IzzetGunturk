@@ -2,17 +2,33 @@
 
 I am a graduated Front-end Development, UI/UX design and Cyber Security student at Fontys Hogescholen in the Netherlands.
 
-## 🛠 Here are some technologies I feel comfortable working with:
+## 🔭 Interests:
+
+#### Cyber Security:
+- Security monitoring (SOC)
+- Digital Forensics & Incident Response
+- Phishing analysis
+- Malware analysis
+- Threat Intelligence
+
+#### Front-end Development & UI/UX design:
+- Designing digital products
+- Making digital products user-friendly
+- Programming digital products
+
+Here are some technologies I feel comfortable working with:
 - HTML
-- CSS, Tailwind CSS, SCSS
+- CSS, Tailwind, SCSS
 - JavaScript, TypeScript
-- React, Next.js, Angular
+- React, Next.js, Angular, Laravel
 - Node.js, Express.js, SQL
 - C#
-- Statamic CMS
-- WordPress
+- Statamic, Wordpress
+- Figma
+  
+## 🧐 I am currently solving challenges on:
+- [TryHackme](https://tryhackme.com)
+- [Crimediggers](https://www.crimediggers.nl/)
 
-## 🔭 I am currently learning
-- TryHackMe challenges
-- Crimediggers challenges
-
+### Profiles
+[![TryHackme](https://tryhackme-badges.s3.amazonaws.com/IzzetG.png)](https://tryhackme.com/p/IzzetG)
