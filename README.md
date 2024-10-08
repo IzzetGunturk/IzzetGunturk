@@ -1,15 +1,8 @@
 # Hi there, my name is Izzet! 👋
 
-I am a graduated Front-end Development, UI/UX design and Cyber Security student at Fontys Hogescholen in the Netherlands.
+I am a graduated Front-end Development, UX/UI design and Cyber Security student at Fontys Hogescholen in the Netherlands.
 
 ## 🔭 Interests:
-
-#### Cyber Security:
-- Security monitoring (SOC)
-- Digital Forensics & Incident Response
-- Phishing analysis
-- Malware analysis
-- Threat Intelligence
 
 #### Front-end Development & UI/UX design:
 - Designing digital products
@@ -25,10 +18,13 @@ Here are some technologies I feel comfortable working with:
 - C#
 - Statamic, Wordpress
 - Figma
-  
-## 🧐 I am currently solving challenges on:
-- [TryHackme](https://tryhackme.com)
-- [Crimediggers](https://www.crimediggers.nl/)
+
+#### Cyber Security:
+- Security monitoring (SOC)
+- Digital Forensics & Incident Response
+- Phishing analysis
+- Malware analysis
+- Threat Intelligence
 
 ### Profiles
 [![TryHackme](https://tryhackme-badges.s3.amazonaws.com/IzzetG.png)](https://tryhackme.com/p/IzzetG)
