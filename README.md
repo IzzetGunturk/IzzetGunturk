@@ -1,6 +1,6 @@
 # Hi there, my name is Izzet! 👋
 
-I am a graduated Front-end Development, UX/UI design and Cyber Security student at Fontys Hogescholen in the Netherlands.
+I am a graduated Front-end Development, UI/UX design and Cyber Security student at Fontys Hogescholen in the Netherlands.
 
 ## 🔭 Interests:
 
