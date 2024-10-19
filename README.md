@@ -13,7 +13,7 @@ Here are some technologies I feel comfortable working with:
 - HTML
 - CSS, Tailwind, SCSS
 - JavaScript, TypeScript
-- React, Next.js, Angular, Laravel
+- React, Next.js, Angular, Laravel, Vue (learning)
 - Node.js, Express.js, SQL
 - C#
 - Statamic, Wordpress
