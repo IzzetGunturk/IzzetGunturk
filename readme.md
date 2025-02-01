@@ -2,6 +2,8 @@
 
 I am a graduated Front-end Development, UI/UX design and Cyber Security student at Fontys Hogescholen in the Netherlands.
 
+Currently working at Netants as a Front-end Developer & UI/UX Designer.
+
 ## 🔭 Interests:
 
 #### Front-end Development & UI/UX design:
