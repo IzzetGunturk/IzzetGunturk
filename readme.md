@@ -20,6 +20,8 @@ Some technologies I feel comfortable working with:
 - C#
 - Statamic, Wordpress
 - Figma
+- Unit tests: Karma/Jasmine, Jest
+- CI/CD
 
 #### Cyber Security:
 - Security monitoring (SOC)
