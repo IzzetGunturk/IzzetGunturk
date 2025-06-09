@@ -12,16 +12,13 @@ Currently working at Netants as a Front-end Developer & UI/UX Designer.
 - Programming digital products
 
 Some technologies I feel comfortable working with:
-- HTML
-- CSS, Tailwind, SCSS
-- JavaScript, TypeScript
-- React, Next.js, Angular, Laravel, Vue (learning)
-- Node.js, Express.js, SQL
-- C#
-- Statamic, Wordpress
-- Figma
-- Unit tests: Karma/Jasmine, Jest
-- CI/CD
+- **Frontend:** HTML, CSS (Tailwind, SCSS), JavaScript, TypeScript
+- **Frameworks/Libraries:** React, Next.js, Angular, Vue, Laravel
+- **Backend:** Node.js, Express.js, SQL databases
+- **CMS:** Statamic, WordPress
+- **Design:** Figma
+- **Testing:** Unit tests with Karma/Jasmine, Jest
+- **DevOps:** CI/CD pipelines
 
 #### Cyber Security:
 - Security monitoring (SOC)
